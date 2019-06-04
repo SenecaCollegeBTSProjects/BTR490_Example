@@ -5,7 +5,7 @@
 ### Marcel Jar 
 - Github: marceljar 
 - Skype: marcel.seneca
-- Role: C++ programming, testing, and benevolent dictator for life
+- Role: C++ programming, testing, and benevolent dictator for life.
 
 ## Business Description
 
