@@ -54,5 +54,3 @@ For this project, the objective is to have students compiling and running C++ so
 Not relevant for this particular project.
 
 *Note: For web-dev, as well as mobile application projects, this section should describe interactions with other websites and/or services. This can include: APIs to collect payment from PayPal/VISA/MasterCard, APIs to collect data from mapping services, APIs to collect methereological data, APIs to allow login using Facebook/Twitter/Google accounts, etc.*
-
-### Hardware
