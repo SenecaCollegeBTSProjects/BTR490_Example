@@ -47,10 +47,12 @@ The desired source code is open on the student's browser.
 
 For this project, the objective is to have students compiling and running C++ source code. Hence, all code will run natively in their machines. Therefore, no back-end technologies are required.
 
-*Note: For web-dev as well as mobile application projects, this section should describe all technologies that run on the server-side. This almost always include the database. Also, this would include any server-side technologies such as Node.js, C#, PHP (and its frameworks such as Laravel), Python (and its frameworks such as Django and Flask), amongst oters.*
+*Note: For web-dev as well as mobile application projects, this section should describe all technologies that run on the server-side. This almost always include the database. Also, this would include any server-side technologies such as Node.js, C#, PHP (and its frameworks such as Laravel), Python (and its frameworks such as Django and Flask), amongst oters. This should also include the hardware or cloud service that will be running the server (AWS, Digital Ocean, Google Cloud Services, GoDaddy).*
 
 ### Application Programming Interfaces (APIs)
 
 Not relevant for this particular project.
 
 *Note: For web-dev, as well as mobile application projects, this section should describe interactions with other websites and/or services. This can include: APIs to collect payment from PayPal/VISA/MasterCard, APIs to collect data from mapping services, APIs to collect methereological data, APIs to allow login using Facebook/Twitter/Google accounts, etc.*
+
+### Hardware
